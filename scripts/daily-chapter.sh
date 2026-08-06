@@ -46,6 +46,7 @@ node "$ENGINE/adapters/story/zs/zs-run.mjs" world "$NEXT" \
   --provider hermes --max-tokens 30000 --retries 3 "${BRIEF_ARGS[@]}"
 
 # 6) 同步展示版 + 推送
+mkdir -p briefs
 cp world/narrative/chapters/ch$NN.txt chapters/ch$NN.txt
 cp world/provenance/history.jsonl state/state.jsonl
 git add world chapters state briefs
