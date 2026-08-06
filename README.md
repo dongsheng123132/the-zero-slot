@@ -15,8 +15,18 @@
 | # | Title | Status |
 |---|---|---|
 | 01 | The Panel Arrives | ✅ 2026-08-06 |
-| 02 | First Rift | 📅 writing |
-| 03 | "VERSION" | 📅 writing |
+| 02 | First Rift | ✅ 2026-08-06 |
+| 03 | "VERSION" | ✅ 2026-08-06 |
+| 04 | Theater Rift (training) | ✅ 2026-08-06 |
+| 05 | Skill Tree + "SHIFT" | ✅ 2026-08-06 |
+| 06 | Stagehand / Guild Alpha / "1.0" | ✅ 2026-08-06 |
+| 07+ | daily auto chapter | ⏰ GitHub Actions cron (06:45 Beijing, ledger-gated) |
+
+## Auto chapters & briefs
+
+A GitHub Actions cron writes one chapter per day into `world/` (ledger-gated:
+str+agi+int+vit+wis+stat_points must balance). PR a `briefs/chNN.md` to steer
+the next chapter's direction — merged briefs are used by the next auto-run.
 
 ## Co-create (5 entrances)
 

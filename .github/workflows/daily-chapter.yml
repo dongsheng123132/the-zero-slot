@@ -1,0 +1,26 @@
+name: daily-chapter
+
+on:
+  schedule:
+    # 每天 22:45 UTC = 北京时间 06:45
+    - cron: '45 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  chapter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Write next chapter (ledger-gated)
+        env:
+          HERMES_API_BASE: ${{ secrets.HERMES_API_BASE }}
+          HERMES_API_KEY: ${{ secrets.HERMES_API_KEY }}
+          HERMES_MODEL: ${{ secrets.HERMES_MODEL }}
+        run: bash scripts/daily-chapter.sh
