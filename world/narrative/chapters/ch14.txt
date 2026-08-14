@@ -1,0 +1,133 @@
+The streetlamps of August City buzzed electric, then snapped on with little blue ghosts. Kael and Mira hurried along a side street, shoulders tucked, keeping their faces away from the main avenue where the first player guilds liked to stake territory. Kael checked his Panel as they walked. Level 5, XP ticking up a sliver from that fool’s-arms counter earlier. Five unspent stat points. He left them there. He’d lived by agility so far, but the theater wouldn’t be solved with quick feet.
+
+“You’re brooding,” Mira said.
+
+“I’m reading cues.” He pulled the script page from his coat. The ink had bled in the humidity. The new line still shimmered when the lamplight hit it: ACT III: THE STAGE MANAGER’S INVITATION. FIND THE DOOR THAT OPENS ONLY WHEN SPOKEN TO.
+
+Mira squinted. “And the old line on the back.” She turned the page. The reversed text read: THE QUIET WORD IS A DOOR; CLOSE IT WHEN THE STAGE MANAGER SPEAKS.
+
+Kael read it out loud. Then again. “Close it when the stage manager speaks. What if ‘it’ isn’t the door? What if ‘it’ is your mouth?”
+
+Mira stopped. “The quiet word is a door, and you have to close the door—close your mouth—when the Stage Manager talks.”
+
+“So if I say the quiet word while the Stage Manager is speaking, the door stays shut.” Kael frowned. “But the door opens only when spoken to. So I need to speak when he’s not speaking. I need a pause.”
+
+“A lull.” Mira tapped her lip. “Between lines.”
+
+“Right.” He put the page away. “The problem is, we need to find a pause in a loop that has no pauses.”
+
+The Grand August Theater loomed ahead. Its marquee lights were corpses, but the frame still smelled of old storms. Two figures stood by the backstage entrance. One was big, with a shield on his back and the Guild Alpha crest stitched over his heart. The other had a hand raised, skin glowing with a System word—a skill trying to brute-force the stage door. The skill hit the sandstone like a rubber ball. No effect. The shield one kicked the door. The door didn’t even rock.
+
+Kael drew Mira behind a stack of rotten posters. “Guild Alpha. Same two from the corner earlier.”
+
+The skill-user spat. “—told you, brute force won’t crack a cue door. It’s a dialogue lock.”
+
+“Then find the right dialogue,” the big one said. “The Guild wants the Stage Manager’s props. We get the key, we get the book, we don’t have to beg for scraps.”
+
+Mira’s hand tightened on Kael’s sleeve. “They’re after the same invitation.”
+
+Kael nodded. “Then let’s find a different entrance.”
+
+He led her along the side of the building to a narrow gap between the theater and a shuttered pawnshop. At the back, a service stair ran down into a pool of dark. The door at the bottom was rusted open. It gave onto a low-ceilinged basement: breaker boxes, coils of cable, a century of old theater switchboard, all dead except one. A red-painted panel labelled “STAGE VOICE” hummed in the dark. Below the label, a small System glyph ran in the font of every Panel in the city:
+
+ACTIVE CUE: QUIET.
+
+Held within the voice circuit. Mira found a screwdriver in her pack and began opening the panel. It was a mess of wires, but three of them were clipped to a hand-painted label: “STAGE VOICE.”
+
+“This is the Stage Manager’s microphone line,” she said. “If we cut the voice, the loop stops. The Stage Manager can’t speak—so the quiet word door will be open.”
+
+“And the stage door?” Kael asked.
+
+“The stage door has a power feed from the same circuit board. If the loop dies, the door dies too. We can open it manually.”
+
+Kael pressed his thumb to a small green console beside the panel. His Panel flashed: PANEL HOLDER: KAEL. LEVEL 5. VERSION 1.0. WORD: QUIET.
+
+The console asked: “WORD TO SILENCE THE STAGE VOICE?”
+
+He leaned closer. The word sat heavy on his tongue, heavier than any skill word. He let it out: “Quiet.”
+
+The console buzzed. The red indicator went dark. Above them, the stage door’s loop died mid-sentence. The silence felt like a pressure drop.
+
+Mira clicked a switch. “Voice circuit offline. Now the door’s control is in your hand.”
+
+They climbed back to the stage door. Guild Alpha’s muffled arguing came from around the front. The brass grille was still dead. Kael stepped up, felt the silence rise against him, and said quietly, “Quiet.”
+
+A click. A grind of stone. The door swung inward.
+
+Kael shoved through; Mira followed. The door sealed itself with a low, final thump. The sound of the world outside cut away, replaced by the dust-smell of stale stagecraft.
+
+Inside was not the front-of-house. It was the wing of the stage, close to the proscenium, stacked with haze of frozen dust. A single spotlight burned down on a folding chair. On the chair, a brass key shaped like a closed mouth. Beside the key, a bound script book, its cover blank but warm.
+
+Kael picked up the key. It was heavier than it should be, dense with a stagehand’s real weight. The mouth’s seam ran along the jaws. He pressed the lips. They hinged open, revealing a single stamped word: QUIET.
+
+System notification flickered in his view:
+
+[BRASS LULL KEY — the mouth that speaks the word when the cue is given. It has been added to your inventory.]
+
+He held the key to the script book. A notch appeared on the cover, exactly key-shaped. Kael inserted the key. The jaws of the key closed, and a line of ink crept across the first blank page:
+
+“ACT III: STEP THROUGH THE QUIET DOOR AND MEET THE STAGE MANAGER ON THE OTHER SIDE.”
+
+Mira read over his shoulder. “That’s it? The invitation is over?”
+
+“Or it just started.”
+
+A voice, cool, familiar, spoke from the dark above the stage: “You have rewritten the rule of the door, Panel holder.”
+
+Kael looked up. No face. The Warden’s voice echoed off the wings. “Before, the quiet word was a door. Now, the lull between the Stage Manager’s lines is a door. You changed the version. Version 1.1.”
+
+Mira moved closer to Kael. “Why can we hear you, Warden? You’re not supposed to be part of the play.”
+
+“I am an observer. But when a version word is rewritten in front of a Panel holder, I am required to acknowledge the new line.” The Warden paused. “I have watched you close two rifts. I watched you take the fool’s arms counter without falling for the trap. This is the first time a Panel holder has deliberately rewritten a stage rule.”
+
+Kael let out a breath. “Rewriting a rule—is that dangerous?”
+
+“It is. The System version update writes itself into the world. Each update changes not only the text, but the floor.” The voice grew quieter. “The old Stage Manager will not accept their door being propped open. They will come to see who spoke the new word. When they come, they will bring a cue that cannot be unsaid.”
+
+Kael kept the key in his hand. “Then we’ll be ready.”
+
+“The play does not wait for ready. The play waits for the cue.” The Warden’s voice faded, as if stepping offstage. “Good luck, Kael. You will need your quiet.”
+
+Silence.
+
+Mira shook herself. “I hate it when that voice just appears.”
+
+Kael turned back to the script book. The first page was blank again. He placed the key around his neck by its chain, its mouth closed against his chest. The book fit in his jacket pocket.
+
+“Come on,” he said. “The invitation says the other side.”
+
+They crossed the stage, skirted the orchestra pit, and found a black door painted at the rear wall. On it, a note in yellowed paper: “FOR THE ONE WHO SPOKE QUIET IN THE LOUDNESS.”
+
+Kael opened the door.
+
+Morning light. The smell of coffee, not dust. They stood in an alley behind a café. The door closed behind them, and when Kael turned, there was only brick.
+
+Mira let out an unsteady laugh. “We walked into a rift and out the other side of the city.”
+
+“Not out of the rift.” Kael touched the book. “The Stage Manager’s invitation is now in the city. The door is no longer a place; it’s a line. A cue.”
+
+The script book’s cover had changed. Stamped in gold: “ACT III — CUE: QUIET. DOOR: AUGUST CITY. WORD: THE STAGE MANAGER WILL SAY IT WHEN YOU ARE CLOSE.”
+
+Mira read it. “So we have to get close to the Stage Manager?”
+
+“Looks like it.”
+
+At the end of the alley, a crowd had gathered by the city clock tower. A small rift had torn open at the tower’s base, silver-mouthed, whispering. A familiar voice came from it, a copy of the stage loop: “quiet... quiet...”
+
+Kael pushed through the crowd’s edge. Beyond the rift, a figure in a long grey stage coat crossed the square and turned down a side street. It didn’t walk so much as drift, head tucked, hands in sleeves, like an actor exiting before the applause.
+
+Mira saw it too. “Is that—”
+
+Kael was already moving. But the rift whispered louder, and the crowd staggered back, and the rift pulsed. A hand—a gloved stagehand’s hand—reached out of the silver mouth.
+
+The script page warmed against his pocket. A new line had appeared on it, bleeding through the paper: “CUE: THE STAGE MANAGER IS WATCHING. OPEN WITH CAUTION.”
+
+Kael stopped, looked from the rift to the retreating figure, and made a choice.
+
+“He’s waiting for us to clear the room so he can talk,” he said.
+
+Mira looked at the rift. “Or he’s the trap.”
+
+“Either way,” Kael said, pulling the key free from his shirt, “the cue is now.” He rolled his shoulders, checked his stats one last time—str 10, agi 12, int 6, vit 10, wis 7, five points held, Slot Zero word pulsing at the edge of his vision. “Let’s rehearse this.”
+
+He stepped toward the rift.
