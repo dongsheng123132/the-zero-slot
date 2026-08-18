@@ -1,0 +1,63 @@
+Kael opened his eyes to a ceiling of painted clouds. The clouds were cracked and peeling, but the theater around him was clean: red seats unbroken, brass railings polished, the big curtain stained with faint grey handprints. Mira lay a few feet away on the stage, propped on one elbow. She blinked at him and then at the rows of empty seats.
+
+'We were under the city,' she said. 'Then you hit level six, and the voice—'
+
+'I heard it.' Kael sat up and opened his Panel. The glass shimmered. Level 6. XP 2500. Five unspent stat points. STR 12 / AGI 14 / INT 7 / VIT 10 / WIS 7. At the bottom, Slot Zero burned with its new line:
+
+VERSION 1.3: ACT IV — THE DOOR IS OPEN. ENTER BEFORE THE CURTAIN CALL.
+
+He read it twice. The ink ran, reformed, and settled into a new sentence:
+
+VERSION 1.4: ACT I — RESET. WALK THE SHADOW'S PATH IN REVERSE. DO NOT ANSWER THE CUE.
+
+Slot Zero was not a skill. It was a blank at the bottom of the Panel, narrower than the other rows, as if the System had left one line empty for an afterthought. The words in it were never the same twice. Kael had stopped assuming he wrote them. They wrote themselves.
+
+'Mira, check yours.' Mira pulled up her Panel. Her eyes widened. 'It says VERSION 1.4 — THE WORLD REWRITES FROM THE FIRST LINE.'
+
+Before she could say more, the theater speakers crackled. The Warden's voice was clipped, flatter than usual. 'Kael. Mira. I don't have logs for this. There is no 1.4 in the release schedule. The stage manager account is offline, but the door system is active. Do not—' The speaker popped. 'Do not answer the cue. If it asks you a question, don't speak. If the theater writes the version word before the server does, the theater is the System. That should be impossible. It is happening anyway.'
+
+Kael stood. His ribs ached, but the Level 6 warmth had faded to a steady calm. He ran a quick inventory. Rift Core, script page, quiet sign token, ledger page. All there.
+
+The script page had changed. Where the old stage directions had been, one line remained in red ink: [CUE HOLDER DOES NOT SPEAK. CUE HOLDER WALKS BACKWARD THROUGH THE FIRST MIRROR.]
+
+He folded the script page and took out the ledger page instead. The torn sheet from the loose shadow-man's ledger was warm again. The rule now read:
+
+CURTAIN CALL RULE: THE ONE WHO ANSWERS THE CUE IS NOT THE CUE HOLDER. THE CUE HOLDER WALKS THROUGH THE FIRST DOOR WHILE THE CUE IS STILL BEING SPOKEN.
+
+'Then we don't answer,' Mira said. 'We walk.'
+
+Kael nodded. He tucked the coin-sized quiet sign token into his palm. It hummed, a tiny vibration against his skin, as if the theater were made of a clock and the token was the winding key.
+
+They crossed the stage. Behind them the curtain moved, though no wind touched it. The lobby door now opened onto a long corridor lined with signs. The first sign read C7 — ROUTE FOR ACT I, with an arrow pointing left. Kael remembered the same sign from Rift-02, but in the old route the arrow had pointed right.
+
+Below the sign, a set of footprints ran down the corridor. The prints faced them.
+
+'They're walking this way,' Mira said.
+
+'No. The heels are deeper. Whoever made them was walking backward.' Kael turned to follow the direction the footprints had come from. 'The shadow's path in reverse.'
+
+They moved down the corridor, past doors with no knobs and one door with a keyhole that glowed faintly. The quiet sign token pulled toward the keyhole door. Kael tried to fit it into the dark opening. It did not reach. The token hummed louder, but nothing opened.
+
+Mira knelt beside the footprints. 'These don't stop at the door. They go to the mirror.'
+
+There was a full-length mirror in a cracked brass frame at the end of the hall. Kael left the keyhole door and followed the footprints. The token in his hand slowly turned and pointed at the mirror.
+
+A voice spoke from behind them, soft and polite and wrong. 'Cue holder. You carry the quiet word. Give it to me, and the door will open.'
+
+Kael's throat tightened. His mouth opened. The words at the bottom of his Panel burned: DO NOT ANSWER THE CUE. Mira put her hand over his mouth. The shadow-man waited under the C7 sign, a tall silhouette with a face smeared like a painting rubbed wet. He took one step closer. 'One word. Then the first act begins properly. You want this. Say it.'
+
+Kael made his hands close around the ledger page, and he stepped backward. The mirror was colder than air. It gave like water. Mira grabbed his wrist and they fell through together.
+
+They landed on a bare floor. Dressing room. One chair, one table, one bulb. The full-length mirror behind them was hard silver again. Dust hung in the light. Mira stood and turned in a slow circle. 'There's no door.'
+
+Kael opened his Panel. The five unspent stat points felt heavier than the Level 6 prompt had explained. He looked at the room—too small, as if a wall was missing. He did not need more strength. He needed to see it the way the stage manager had seen it.
+
+'One point in Wisdom.' He selected WIS 7 and allocated the point. WIS 8.
+
+The room tilted. A round makeup mirror on the table caught the light. In its reflection, the cord of the bare bulb hung to the left. In the dressing room, it hung to the right. The mirror was not reflecting this room. It was a window into another version.
+
+Kael touched the glass. It rippled. Beyond it, another theater, identical, but lit from below. A single red curtain hung across the stage. From behind the curtain, the distant voice spoke.
+
+'First act. Cue holder staged. Curtain.'
+
+Kael drew breath. The curtain began to rise.
